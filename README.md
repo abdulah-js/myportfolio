@@ -1,3 +1,3 @@
 ## Personal Porfolio Site
 
-My personal portfolio site. Live at www.gauravgiri.com.np
+Welcome to my GitHub profile. This is my personal portfolio site.
